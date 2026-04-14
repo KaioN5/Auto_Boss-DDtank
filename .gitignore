@@ -1,0 +1,24 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração local
+config.ini
+settings.json
+
+# Screenshots ou capturas
+*.png
+*.jpg
+*.jpeg
