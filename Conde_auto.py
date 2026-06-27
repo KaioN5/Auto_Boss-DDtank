@@ -1,10 +1,11 @@
 import time
-import pyautogui as pt
+import pyautogui as pt # pip install pyautogui
 
-TOTAL_RODADAS = 200
+TOTAL_RODADAS = 100
 
 
 def atacar_conde():
+    """Executa o ataque automático contra o Conde em DDTank."""
     rodada = 0
 
     # Ajuste único de ângulo no início da batalha
